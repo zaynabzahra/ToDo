@@ -1,6 +1,6 @@
 Running the Application in LocalHost
 
-[]
+[](/todo.png)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
